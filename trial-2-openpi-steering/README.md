@@ -1,4 +1,4 @@
-# Trial 2 — ATHENA steering implemented inside an openpi checkout
+# Trial 2 - ATHENA steering implemented inside an openpi checkout
 
 This is the second of the two implementation trials in this repository (see the
 [top-level README](../README.md)). It was developed **inside a clone of
