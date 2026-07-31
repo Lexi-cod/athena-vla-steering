@@ -1,4 +1,4 @@
-# ATHENA-inspired test-time steering for π0.5 on LIBERO — two implementation trials
+# ATHENA-inspired test-time steering for π0.5 on LIBERO - two implementation trials
 
 This repository contains **two separate implementation trials of the same research
 project**: adapting ATHENA-style test-time steering (originally a method for count
