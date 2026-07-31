@@ -1,0 +1,13 @@
+init_state,unsteered_outcome,unsteered_grasped,away_outcome,away_grasped,away_n_steered,flip_win,flip_lose,changed
+0,FAILURE,akita_black_bowl_3,FAILURE,akita_black_bowl_1,62,False,False,True
+1,SUCCESS,akita_black_bowl_2,SUCCESS,akita_black_bowl_2,2,False,False,True
+2,FAILURE,akita_black_bowl_3,FAILURE,akita_black_bowl_3,26,False,False,False
+3,SUCCESS,akita_black_bowl_2,SUCCESS,akita_black_bowl_2,0,False,False,True
+4,FAILURE,akita_black_bowl_3,FAILURE,akita_black_bowl_3,55,False,False,False
+5,SUCCESS,akita_black_bowl_2,FAILURE,akita_black_bowl_1,29,False,True,True
+6,FAILURE,akita_black_bowl_3,FAILURE,akita_black_bowl_3,26,False,False,False
+7,FAILURE,akita_black_bowl_3,FAILURE,akita_black_bowl_3,69,False,False,False
+8,SUCCESS,akita_black_bowl_2,SUCCESS,akita_black_bowl_2,0,False,False,True
+9,SUCCESS,akita_black_bowl_2,SUCCESS,akita_black_bowl_2,0,False,False,True
+10,FAILURE,akita_black_bowl_1,SUCCESS,akita_black_bowl_2,0,True,False,True
+11,FAILURE,akita_black_bowl_2,FAILURE,akita_black_bowl_1,34,False,False,True

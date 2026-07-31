@@ -1,0 +1,2 @@
+rollout,init_state_idx,first_divergence_step,recovery_step,relapse_step,outcome,final_signal,grasped_object,num_replans,num_replans_steered,first_steer_step
+0,0,69,,,FAILURE,-0.3262526255308777,white_yellow_mug_1,80,63,70

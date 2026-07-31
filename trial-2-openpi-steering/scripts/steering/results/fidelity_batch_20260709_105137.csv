@@ -1,0 +1,11 @@
+rollout,init_state_idx,first_divergence_step,recovery_step,relapse_step,outcome,final_signal,grasped_object
+30,30,74,,,FAILURE,-0.3043625451842206,porcelain_mug_1
+31,31,68,,,FAILURE,-0.22451331409461955,porcelain_mug_1
+32,32,68,,,FAILURE,-0.27864810450156763,porcelain_mug_1
+33,33,66,,,FAILURE,-0.3223047063191131,white_yellow_mug_1
+34,34,61,,,FAILURE,-0.26486505341812305,white_yellow_mug_1
+35,35,68,,,FAILURE,-0.3179575282447392,porcelain_mug_1
+36,36,61,,,FAILURE,-0.27848192480352263,white_yellow_mug_1
+37,37,64,,,FAILURE,-0.33617891445841175,white_yellow_mug_1
+38,38,60,,,FAILURE,-0.2636659980523493,white_yellow_mug_1
+39,39,64,,,FAILURE,-0.2863010616916567,porcelain_mug_1

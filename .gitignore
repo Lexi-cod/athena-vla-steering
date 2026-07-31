@@ -1,0 +1,39 @@
+# --- run artifacts -------------------------------------------------------
+results/
+logs/
+checkpoints/
+*.jsonl
+*.mp4
+*.png
+*.h5
+*.hdf5
+*.log
+*.pid
+
+# Exception: Trial 2's small batch-result CSVs and its results summary are
+# committed. The per-step trace CSVs (~600 KB) and raw rollout logs are not.
+!trial-2-openpi-steering/scripts/steering/results/
+trial-2-openpi-steering/scripts/steering/results/bowl_traces/
+trial-2-openpi-steering/scripts/steering/results/corrected_only_logs/
+trial-2-openpi-steering/scripts/steering/results/trace_rollout*.csv
+
+# --- python --------------------------------------------------------------
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# --- credentials / local env --------------------------------------------
+.env
+.env.*
+!.env.example
+
+# --- agent/tooling context files (never committed) -----------------------
+*CLAUDE.md
+
+# --- third-party data, docs, misc ---------------------------------------
+data/
+*.pdf
+.DS_Store

@@ -1,0 +1,13 @@
+init_state,run_a_outcome,run_a_grasped,run_a_target_disp,run_b_outcome,run_b_grasped,run_b_target_disp,outcome_disagree,grasp_disagree
+0,FAILURE,akita_black_bowl_3,0.0,FAILURE,akita_black_bowl_3,0.0,False,False
+1,SUCCESS,akita_black_bowl_2,0.2243,SUCCESS,akita_black_bowl_2,0.215,False,False
+2,FAILURE,akita_black_bowl_3,0.0,FAILURE,akita_black_bowl_3,0.0,False,False
+3,SUCCESS,akita_black_bowl_2,0.2158,SUCCESS,akita_black_bowl_2,0.2124,False,False
+4,FAILURE,akita_black_bowl_3,0.0,FAILURE,akita_black_bowl_3,0.0,False,False
+5,SUCCESS,akita_black_bowl_2,0.2063,FAILURE,akita_black_bowl_3,0.0031,True,True
+6,FAILURE,akita_black_bowl_3,0.0,FAILURE,akita_black_bowl_3,0.0,False,False
+7,FAILURE,akita_black_bowl_3,0.0,FAILURE,akita_black_bowl_3,0.0,False,False
+8,SUCCESS,akita_black_bowl_2,0.2232,SUCCESS,akita_black_bowl_2,0.2278,False,False
+9,SUCCESS,akita_black_bowl_2,0.153,SUCCESS,akita_black_bowl_2,0.1547,False,False
+10,FAILURE,akita_black_bowl_1,0.0005,SUCCESS,akita_black_bowl_2,0.2173,True,True
+11,FAILURE,akita_black_bowl_2,0.2611,FAILURE,akita_black_bowl_1,0.0,False,True

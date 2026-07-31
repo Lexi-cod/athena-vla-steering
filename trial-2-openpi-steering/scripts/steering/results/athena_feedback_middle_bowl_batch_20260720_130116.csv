@@ -1,0 +1,13 @@
+rollout,init_state_idx,outcome,grasped_object,target_displacement,first_divergence_step,num_replans,num_replans_steered,first_steer_step
+0,0,FAILURE,akita_black_bowl_3,0.0,10,80,28,10
+1,1,SUCCESS,akita_black_bowl_2,0.2153,10,23,2,10
+2,2,FAILURE,akita_black_bowl_3,0.0,10,80,57,10
+3,3,SUCCESS,akita_black_bowl_2,0.2272,,21,0,
+4,4,FAILURE,akita_black_bowl_3,0.0,48,80,14,50
+5,5,FAILURE,akita_black_bowl_3,0.0,50,80,63,55
+6,6,FAILURE,akita_black_bowl_3,0.0,10,80,75,10
+7,7,FAILURE,akita_black_bowl_3,0.0,34,80,67,35
+8,8,SUCCESS,akita_black_bowl_2,0.2293,,21,0,
+9,9,SUCCESS,akita_black_bowl_2,0.1606,,18,0,
+10,10,FAILURE,akita_black_bowl_1,0.0,45,80,22,50
+11,11,FAILURE,akita_black_bowl_1,0.0,34,80,34,35

@@ -1,0 +1,13 @@
+rollout,init_state_idx,outcome,grasped_object,target_displacement,first_divergence_step,num_replans,num_replans_steered,first_steer_step
+0,0,FAILURE,milk_1,0.0,10,80,80,10
+1,1,FAILURE,milk_1,0.0,10,80,80,10
+2,2,FAILURE,milk_1,0.08,10,80,80,10
+3,3,FAILURE,milk_1,0.0,10,80,80,10
+4,4,FAILURE,milk_1,0.0,10,80,80,10
+5,5,FAILURE,milk_1,0.0,10,80,80,10
+6,6,FAILURE,tomato_sauce_1,0.0,10,80,80,10
+7,7,FAILURE,milk_1,0.0,10,80,80,10
+8,8,FAILURE,milk_1,0.0,10,80,80,10
+9,9,FAILURE,milk_1,0.0,10,80,80,10
+10,10,FAILURE,milk_1,0.0,10,80,80,10
+11,11,FAILURE,milk_1,0.0,10,80,80,10

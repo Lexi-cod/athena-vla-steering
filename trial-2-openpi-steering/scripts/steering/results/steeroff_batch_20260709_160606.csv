@@ -1,0 +1,6 @@
+rollout,init_state_idx,first_divergence_step,recovery_step,relapse_step,outcome,final_signal,grasped_object,num_replans,num_replans_steered,first_steer_step
+0,0,71,,,FAILURE,-0.2791488619111565,porcelain_mug_1,80,0,
+1,1,60,,,FAILURE,-0.30765063857572966,white_yellow_mug_1,80,0,
+2,2,63,,,FAILURE,-0.30585486222316355,white_yellow_mug_1,80,0,
+3,3,67,,,FAILURE,-0.33903910044615404,white_yellow_mug_1,80,0,
+4,4,73,,,FAILURE,-0.2710579897600981,porcelain_mug_1,80,0,

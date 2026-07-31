@@ -1,0 +1,13 @@
+init_state,unsteered_outcome,unsteered_grasped,unsteered_target_disp,away_outcome,away_grasped,away_target_disp,away_n_steered,flipped_to_success,behavior_changed
+0,FAILURE,white_yellow_mug_1,0.0,FAILURE,white_yellow_mug_1,0.0,63,False,False
+1,FAILURE,white_yellow_mug_1,0.0,FAILURE,white_yellow_mug_1,0.0,63,False,False
+2,FAILURE,white_yellow_mug_1,0.0,FAILURE,white_yellow_mug_1,0.0,61,False,False
+3,FAILURE,white_yellow_mug_1,0.0,FAILURE,white_yellow_mug_1,0.0,61,False,False
+4,FAILURE,white_yellow_mug_1,0.0,FAILURE,white_yellow_mug_1,0.0,62,False,False
+5,FAILURE,porcelain_mug_1,0.0003,FAILURE,white_yellow_mug_1,0.0003,60,False,True
+6,FAILURE,white_yellow_mug_1,0.0,FAILURE,white_yellow_mug_1,0.0,39,False,False
+7,FAILURE,porcelain_mug_1,0.0,FAILURE,porcelain_mug_1,0.0,65,False,False
+8,FAILURE,white_yellow_mug_1,0.002,FAILURE,white_yellow_mug_1,0.002,60,False,False
+9,FAILURE,white_yellow_mug_1,0.0,FAILURE,porcelain_mug_1,0.0,62,False,True
+10,FAILURE,porcelain_mug_1,0.0,FAILURE,porcelain_mug_1,0.0,61,False,False
+11,FAILURE,white_yellow_mug_1,0.0,FAILURE,white_yellow_mug_1,0.0,61,False,False
